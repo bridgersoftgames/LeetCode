@@ -49,3 +49,12 @@ class Solution:
         
         #else return empty list
         return []
+
+#remove for leetcode IDE
+
+'''
+nums = []
+solution = Solution()
+ans = solution.twoSum(nums)
+print(ans)
+'''
