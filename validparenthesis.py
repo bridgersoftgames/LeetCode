@@ -1,4 +1,4 @@
-s = "()]"
+s = ""
 class Solution:
     def isValid(self, s: str) -> bool:
         for x in s:
