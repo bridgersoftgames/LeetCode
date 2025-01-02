@@ -39,7 +39,6 @@ class Solution:
 #remove for leetcode IDE
 
 '''
-x = 0
 solution = Solution()
 answer = solution.isPalindrome(x)
 print(answer)
